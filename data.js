@@ -1,7 +1,7 @@
 export const home = {
-    domain: 'jayhawk.github.io',
-    name: 'Anubhav',
-    subtitle: 'A Freelance Web Developer from India.',
+    domain: 'v3sirion.github.io',
+    name: 'Hello World',
+    subtitle: 'A Freelance Web Developer from Earth.',
     email: 'anubhavthrilling24@gmail.com',
     resumeLink:
         'https://drive.google.com/file/d/1sqxhKQnX9vD1Q41R1QqjCUadxBZlfTJ-/view?usp=sharing',
